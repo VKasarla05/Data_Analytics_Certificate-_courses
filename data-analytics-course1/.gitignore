@@ -1,0 +1,7 @@
+# Raw data (download separately, don't commit large/raw CSVs)
+projects/*/data/*.csv
+projects/*/data/*.xlsx
+
+# Certificates can be large PDFs - keep tracked, but ignore any temp exports
+*.tmp
+.DS_Store

@@ -1,0 +1,7 @@
+# Raw data (download separately, don't commit large/raw CSVs)
+project-uphp-case-study/data/*.csv
+project-uphp-case-study/data/*.xlsx
+
+# OS / editor junk
+.DS_Store
+*.tmp
