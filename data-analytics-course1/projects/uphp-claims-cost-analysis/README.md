@@ -1,8 +1,8 @@
-# UPHP-Style Case Study: Claims & Enrollment Cost Analysis
+# Case Study: Claims & Enrollment Cost Analysis
 
 A self-directed mini case study applying the Ask–Prepare–Process–Analyze–Share–Act
 framework to a health-plan-style dataset, modeled on the kind of work done by health plan
-data analysts (e.g., UPHP in Marquette, MI) who work with medical/pharmacy claims,
+data analysts who work with medical/pharmacy claims,
 hospital data, enrollment, and revenue to support clinical, claims, and finance teams.
 
 ## Status
