@@ -1,8 +1,8 @@
-# Case Study: Claims & Enrollment Cost Analysis
+# UPHP-Style Case Study: Claims & Enrollment Cost Analysis
 
 A self-directed mini case study applying the Ask–Prepare–Process–Analyze–Share–Act
 framework to a health-plan-style dataset, modeled on the kind of work done by health plan
-data analysts who work with medical/pharmacy claims,
+data analysts (e.g., UPHP in Marquette, MI) who work with medical/pharmacy claims,
 hospital data, enrollment, and revenue to support clinical, claims, and finance teams.
 
 ## Status
@@ -16,6 +16,9 @@ procedure info, claim amounts, and dates.
 Optional real-world context layer: Michigan's [Medicaid and Healthy Michigan Plan
 enrollment reports](https://www.michigan.gov/mdhhs/assistance-programs/medicaid/portalhome/reports/medicaid-and-healthy-michigan-plan-health-plan-enrollment-report)
 (published monthly, by county).
+
+## Scope of Work
+Full SOW for this project: [00-scope-of-work.md](00-scope-of-work.md)
 
 ## Framework walkthrough
 | Phase | File | Status |
