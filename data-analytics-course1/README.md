@@ -20,7 +20,7 @@ projects/         Applied project work
 | 1. Foundations: Data, Data, Everywhere | ✅ Complete | [notes](courses/course-01-foundations-of-data/README.md) | ⬜ |
 | 2. Ask Questions to Make Data-Driven Decisions | ✅ Complete | [notes](courses/course-02-ask-questions/README.md) | ⬜ |
 | 3. Prepare Data for Exploration | ✅ Complete | [notes](courses/course-03-prepare-data/README.md) | ⬜ |
-| 4. Process Data from Dirty to Clean | ⬜ Not started | — | ⬜ |
+| 4. Process Data from Dirty to Clean | ✅ Complete | [notes](courses/course-04-process-data/README.md) | ⬜ |
 | 5. Analyze Data to Answer Questions | ⬜ Not started | — | ⬜ |
 | 6. Share Data Through the Art of Visualization | ⬜ Not started | — | ⬜ |
 | 7. Data Analysis with R Programming | ⬜ Not started | — | ⬜ |
@@ -30,6 +30,7 @@ projects/         Applied project work
 - [Week 1](weekly-log/week-01.md)
 - [Week 2](weekly-log/week-02.md)
 - [Week 3](weekly-log/week-03.md)
+- [Week 4](weekly-log/week-04.md)
 - [Template for future weeks](weekly-log/WEEKLY_TEMPLATE.md)
 
 ## Applied project

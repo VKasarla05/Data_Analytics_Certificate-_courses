@@ -6,7 +6,7 @@ data analysts (e.g., UPHP in Marquette, MI) who work with medical/pharmacy claim
 hospital data, enrollment, and revenue to support clinical, claims, and finance teams.
 
 ## Status
-🚧 In progress — Ask and Prepare phases complete, moving into Process.
+🚧 In progress — Ask and Prepare complete; Process phase underway.
 
 ## Dataset
 [Enhanced Health Insurance Claims Dataset](https://www.kaggle.com/datasets/leandrenash/enhanced-health-insurance-claims-dataset)
@@ -25,7 +25,7 @@ Full SOW for this project: [00-scope-of-work.md](00-scope-of-work.md)
 |---|---|---|
 | Ask | [01-ask.md](01-ask.md) | ✅ |
 | Prepare | [02-prepare.md](02-prepare.md) | ✅ |
-| Process | [03-process.md](03-process.md) | ⬜ |
+| Process | [03-process.md](03-process.md) | 🚧 |
 | Analyze | [04-analyze.md](04-analyze.md) | ⬜ |
 | Share | [05-share.md](05-share.md) | ⬜ |
 | Act | [06-act.md](06-act.md) | ⬜ |
