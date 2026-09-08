@@ -21,7 +21,7 @@ projects/         Applied project work
 | 2. Ask Questions to Make Data-Driven Decisions | ✅ Complete | [notes](courses/course-02-ask-questions/README.md) | ⬜ |
 | 3. Prepare Data for Exploration | ✅ Complete | [notes](courses/course-03-prepare-data/README.md) | ⬜ |
 | 4. Process Data from Dirty to Clean | ✅ Complete | [notes](courses/course-04-process-data/README.md) | ⬜ |
-| 5. Analyze Data to Answer Questions | ⬜ Not started | — | ⬜ |
+| 5. Analyze Data to Answer Questions | ✅ Complete | [notes](courses/course-05-analyze-data/README.md) | ⬜ |
 | 6. Share Data Through the Art of Visualization | ⬜ Not started | — | ⬜ |
 | 7. Data Analysis with R Programming | ⬜ Not started | — | ⬜ |
 | 8. Google Data Analytics Capstone | ⬜ Not started | — | ⬜ |
@@ -31,6 +31,7 @@ projects/         Applied project work
 - [Week 2](weekly-log/week-02.md)
 - [Week 3](weekly-log/week-03.md)
 - [Week 4](weekly-log/week-04.md)
+- [Week 5](weekly-log/week-05.md)
 - [Template for future weeks](weekly-log/WEEKLY_TEMPLATE.md)
 
 ## Applied project
