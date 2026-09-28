@@ -70,4 +70,5 @@ All verification links: [certificates/README.md](certificates/README.md)
 Health plans rely on data analysts to study claims, hospital, enrollment and cost data for finance, quality and care-management teams. In rural communities, where providers are scarce and travel distances are long, this work is especially important: better use of data can help keep members with chronic conditions healthy and out of the hospital. This repository documents my learning and a self-directed project built to practice those skills with public data.
 
 ---
-**Vyshnavi Priya Kasarla** · [GitHub](https://github.com/VKasarla05) · _LinkedIn: add link_
+**Vyshnavi Priya Kasarla** · [GitHub](https://github.com/VKasarla05) · [LinkedIn](https://www.linkedin.com/in/kasarla-vyshnavi-priya-713992270/)
+
