@@ -44,7 +44,7 @@ Non-technical managers (finance and care management): lead with findings, few ch
 - Titles state the finding, not the chart type
 - One highlight color, gray for everything else; colorblind-safe palette
 - Values labeled directly on charts
-- Footnote: *Source: synthetic Medicare claims (Kaggle), 2009. Not UPHP data.*
+- Footnote: *Source: synthetic Medicare claims (Kaggle), 2009. Not real health plan data.*
 
 ## One-page summary
 > **Where Medicare claim costs come from, and what to do about it**

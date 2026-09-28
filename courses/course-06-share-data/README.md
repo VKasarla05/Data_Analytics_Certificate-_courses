@@ -14,4 +14,4 @@ state the finding, one highlight color, direct labels, alt text, and a Power BI 
 See [capstone Share phase](../../capstone/medicare-claims-cost-analysis/05-share/share.md).
 
 ## Status
-🔄 Update to ✅ Complete once the certificate is added
+✅ Complete (Sep 21, 2026) · [Certificate](../../certificates/course-06-share-data.pdf)

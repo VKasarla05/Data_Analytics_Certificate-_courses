@@ -12,4 +12,4 @@ A health plan cost analysis of 138,556 Medicare members and 558,211 claims, buil
 BigQuery and Power BI, modeled on the work of a regional health plan's data analysts.
 
 ## Status
-🔄 Update to ✅ Complete once the certificate is added
+✅ Complete (Sep 27, 2026) · [Certificate](../../certificates/course-08-capstone.pdf)

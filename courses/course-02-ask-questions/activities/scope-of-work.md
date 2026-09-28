@@ -1,9 +1,9 @@
 > **Course 2 activity.** This Scope of Work was the first plan for my case study. The final capstone uses a different, more credible dataset: see [the capstone](../../../capstone/medicare-claims-cost-analysis/README.md).
 
-# Scope of Work — UPHP-Style Claims & Enrollment Cost Analysis
+# Scope of Work — Rural Health Plan Claims & Enrollment Cost Analysis
 
 **Data Analyst:** Vyshnavi Priya Kasarla
-**Client/Sponsor:** UPHP Finance & Quality Team *(mock stakeholder, for practice)*
+**Client/Sponsor:** Rural Health Plan Finance & Quality Team *(mock stakeholder, for practice)*
 
 ## Purpose
 This project analyzes medical claims and enrollment data for a regional Medicaid-focused
@@ -25,7 +25,7 @@ program.
 | Final Report & Dashboard | Deliver a one-page summary report and supporting visualizations |
 
 ## This project does not include (out of scope)
-- Real UPHP member data — this is a self-directed practice project using public synthetic data
+- Real health plan member data — this is a self-directed practice project using public synthetic data
 - Any predictive modeling or machine learning — this is a descriptive/diagnostic analysis
 - Implementation of any recommended interventions
 - Claims data outside the scope of the selected dataset's time period

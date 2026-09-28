@@ -1,15 +1,18 @@
 # Phase 1: Ask
 
 ## Project overview
-A self-directed case study using a public, synthetic **Medicare claims dataset** from Kaggle. The business questions are modeled on the work of a regional health plan like UPHP (Upper Peninsula Health Plan). The project is not affiliated with UPHP and uses none of their data.
+A self-directed case study using a public, synthetic **Medicare claims dataset** from Kaggle. The business questions are modeled on the work of a **health plan serving rural communities**, where cost and access to care are closely connected.
 
-## Context: a regional health plan's world
-- UPHP is a health plan based in Marquette, serving Michigan's Upper Peninsula.
-- Most members are covered through government programs like Medicaid and Medicare Advantage.
-- Health plan data analysts study **claims** (bills from doctors and hospitals) to answer questions about **cost, quality of care and access to care**.
-- The Upper Peninsula is rural, with fewer providers and longer travel. When people can't reach regular care easily, they can end up in the hospital, which costs much more.
+## Context: why rural health matters
+- Rural areas have **fewer primary care providers and specialists**, and many small hospitals have reduced services or closed.
+- People often **travel long distances** for care, especially in winter or without reliable transportation.
+- Rural populations tend to be **older** and have **higher rates of chronic conditions** such as heart disease, diabetes and COPD.
+- A large share of rural residents rely on **government programs like Medicare and Medicaid**.
+- When regular care is hard to reach, problems can go unmanaged until they become serious, leading to **emergency visits and hospital stays that cost much more**.
 
-This Medicare-style dataset fits well with a Medicare Advantage population.
+For a rural health plan, this means the biggest savings often come from **keeping members with chronic conditions healthy and out of the hospital**, through care coordination, follow-up after discharge and better access to primary care.
+
+Health plan data analysts study **claims** (bills from doctors and hospitals) to answer questions about **cost, quality of care and access to care**. This Medicare-style dataset, with its chronic condition flags and hospital stays, is a good fit for exploring these questions.
 
 ## Problem type
 - **Main:** finding patterns (where does most of the cost come from?)
@@ -44,4 +47,4 @@ If members with several chronic conditions drive most hospital costs and readmis
 
 ## Limitations
 - The data is **synthetic** and from **2009**: it shows the analysis method, not current real-world facts.
-- It is not UPHP data and has no plan type, pharmacy data or provider specialty.
+- It is not real health plan data and has no plan type, pharmacy data, provider specialty or rural/urban location field.

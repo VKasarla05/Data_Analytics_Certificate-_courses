@@ -17,7 +17,7 @@
 -
 
 ## Project work this week
-- Chose a healthcare cost case study aimed at health plan data analyst roles (e.g., UPHP).
+- Chose a healthcare cost case study aimed at health plan data analyst roles, with a focus on rural health.
 - First dataset picked: Kaggle "Enhanced Health Insurance Claims Dataset" (later rejected in the capstone; see week 6).
 - Final version: [capstone Ask phase](../capstone/medicare-claims-cost-analysis/01-ask/ask.md)
 

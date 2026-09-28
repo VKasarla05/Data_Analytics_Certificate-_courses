@@ -4,9 +4,9 @@
 ![Dashboard](dashboard/dashboard.png)
 
 ## Overview
-This case study analyzes **138,556 Medicare members and 558,211 claims** to find which members and types of care drive the largest share of cost. The business questions are modeled on the work of a regional health plan such as UPHP (Upper Peninsula Health Plan).
+This case study analyzes **138,556 Medicare members and 558,211 claims** to find which members and types of care drive the largest share of cost. The business questions are modeled on the work of a health plan serving rural communities, where limited access to regular care can lead to costly hospital stays.
 
-> This is a self-directed portfolio project using a public, synthetic dataset from Kaggle. It is not affiliated with UPHP and uses none of their data.
+> This is a self-directed portfolio project using a public, synthetic dataset from Kaggle. It uses no real patient or health plan data.
 
 **Business task:** Identify which members and types of care drive the largest share of Medicare claim costs, and recommend one targeted action a health plan could take to reduce avoidable costs without limiting members' access to care.
 
