@@ -1,0 +1,13 @@
+# Raw data files (large; link to sources instead)
+capstone/*/data/raw/
+*.zip
+
+# Saved BigQuery console pages
+*.html
+*_files/
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
